@@ -1,2 +1,2 @@
 # Library-Mnagement-system
-A simple Library Management sytm using python
+A simple Library Management system using python and SQL 
